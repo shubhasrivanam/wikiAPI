@@ -35,4 +35,4 @@ while i==1:
     print("0: Exit, Im exausted!")
     i = int(input())
 if(i==0):
-    print("Hope you had fun!")
+    print("Hope you had fun! Bye.")
